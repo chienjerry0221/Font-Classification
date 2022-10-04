@@ -7,6 +7,8 @@ library(tree)
 library(randomForest)
 # =============================================================================
 
+# =======
+
 # Problem 0
 file_wd = "/Users/jerrychien/Desktop/OneDrive - University Of Houston/6350 - Statistical Learning and Data Mining/HW/HW 3/fonts"
 selected_file = c("GILL.csv", "LEELAWADEE.csv", "ROMAN.csv", "TECHNIC.csv") # Each class around 1300. Report now base on this case.
